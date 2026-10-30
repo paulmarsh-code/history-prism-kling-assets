@@ -1,0 +1,6 @@
+Defence-Judge-Close-CANDIDATE
+Status: HOLD; NOT APPROVED
+Image source: HP_C5B_Defence_Close_to_Judge_v07_PortraitRef_1080p_REVIEW.png
+Video source: kling_20260930_VIDEO_VISUAL_CON_5128_0 (1).mp4
+Assessment: Clip changes from close-up to wider shot, not a stable camera reference
+Use for Kling only after reviewing geometry/eyeline and confirming performance is acceptable. Use video as STYLE reference, not original dialogue or gesture replay.
